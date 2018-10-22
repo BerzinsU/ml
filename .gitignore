@@ -1,0 +1,5 @@
+env/
+.ipynb_checkpoints/
+tf_logs/
+*.meta
+__pycache__/
